@@ -35,7 +35,7 @@
 
 ### 📬 Contato
 
-- ✉️ **E-mail:** victorgama7x@gmail.com  
+- ✉️ **E-mail:** victorgamatech@gmail.com 
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/victorgama7/](https://www.linkedin.com/in/victorgama7/)  
 
 ---
