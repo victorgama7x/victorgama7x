@@ -1,79 +1,43 @@
-# 💻 Victor Gama
-**`DESENVOLVEDOR FULLSTACK`**
+<h1 align="center">Victor Gama</h1>
+<h3 align="center">Desenvolvedor Fullstack</h3>
 
-Olá! Me chamo **Victor da Cruz Gama**, tenho 19 anos e sou de Sergipe. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **UNIFAMMA**. Sou apaixonado por tecnologia e desenvolvimento, com foco em criar soluções que realmente façam a diferença. Estou sempre em busca de aprender mais, crescer como profissional e encarar novos desafios no mundo da programação.
-___
+<p align="center">
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIFAMMA</strong>, com 19 anos e natural de Sergipe.<br/>
+  Apaixonado por tecnologia e desenvolvimento de software, busco constantemente aprimorar minhas habilidades e entregar soluções eficientes e escaláveis.<br/>
+  Tenho interesse especial por backend e arquitetura de aplicações modernas.
+</p>
 
-### 🤖 Linguagens e Tecnologias
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-  <img 
-    align="left" 
-    alt="Node"
-    title="Node" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-  <img 
-    align="left" 
-    alt="Fastify"
-    title="Fastify" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg"
-/>
-  <img 
-    align="left" 
-    alt="Nest"
-    title="Nest" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
-/>
+---
 
+### 💼 Habilidades Técnicas
 
-<br/>
-<br/>
+<div align="center">
+  <img alt="HTML5" title="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>  
+  <img alt="CSS3" title="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="TypeScript" title="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
+  <img alt="Node.js" title="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img alt="React" title="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
+  <img alt="Fastify" title="Fastify" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-plain.svg"/>
+  <img alt="NestJS" title="NestJS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"/>
+</div>
 
-### 📊 Estatísticas
+---
 
-![Victor Gama GitHub stats](https://github-readme-stats.vercel.app/api?username=victorgama7x&show_icons=true&theme=gruvbox)
+### 📊 GitHub Insights
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgama7x&layout=donut&theme=gruvbox)](https://github.com/victorgama7x/github-readme-stats)
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorgama7x&show_icons=true&theme=gruvbox&include_all_commits=true&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgama7x&layout=compact&theme=gruvbox"/>
+</div>
 
+---
 
+### 📬 Contato
 
+- ✉️ **E-mail:** victorgama7x@gmail.com  
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/victorgama7/](https://www.linkedin.com/in/victorgama7/)  
 
+---
 
-
+<p align="center"><em>“A tecnologia move o mundo, e eu quero fazer parte dessa transformação.”</em></p>
