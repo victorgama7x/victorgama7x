@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Back-end</h3>
 
 <p align="center">
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIFAMMA</strong>, com 19 anos e natural de Sergipe.<br/>
+  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIFAMMA</strong>, tenho 19 anos e natural de Sergipe.<br/>
   Apaixonado por tecnologia e desenvolvimento de software, busco constantemente aprimorar minhas habilidades e entregar soluções eficientes e escaláveis.<br/>
   Tenho interesse especial por backend e arquitetura de aplicações modernas.
 </p>
