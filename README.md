@@ -1,5 +1,5 @@
 <h1 align="center">Victor Gama</h1>
-<h3 align="center">Desenvolvedor Fuul-Stack</h3>
+<h3 align="center">Desenvolvedor Full-Stack</h3>
 
 <p align="center">
   Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIFAMMA</strong>, tenho 19 anos e natural de Sergipe.<br/>
@@ -12,9 +12,6 @@
 ### 💼 Habilidades Técnicas
 
 <div align="center">
-  
-  <img alt="HTML" title="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="Javascript" title="Javascript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="Typescript" title="Typescript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="NodeJs" title="NodeJs" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
