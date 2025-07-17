@@ -6,7 +6,7 @@ Desenvolvedor em formação, comprometido em criar soluções modernas, funciona
 
 - Graduando em Analise e desenvolvimento de sistemas na UNIFAMMA
 
-- Aprendendo sobre o o ecossistema Node.JS e seus frameworks com o foco no fullstack
+- Aprendendo sobre Java e NextJS com foco no fullstack
 
 - Busco sempre aprender o fundamento antes de abstrair com frameworks
 
@@ -23,10 +23,7 @@ Desenvolvedor em formação, comprometido em criar soluções modernas, funciona
 
 ## Tecnologias e linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,docker)](https://skillicons.dev)
 
 ###  Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nestjs,jest,vite,tailwind,postgres,mongo)](https://skillicons.dev)
-
-###  Ferramentas de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=spring,react,next,postgres,mongo)](https://skillicons.dev)
