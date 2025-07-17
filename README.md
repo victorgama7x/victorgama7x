@@ -1,39 +1,32 @@
-<h1 align="center">Victor Gama</h1>
-<h3 align="center">Desenvolvedor Full-Stack</h3>
+# Prazer, me chamo Victor
 
-<p align="center">
-  Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>UNIFAMMA</strong>, tenho 19 anos e natural de Sergipe.<br/>
-  Apaixonado por tecnologia e desenvolvimento de software, busco constantemente aprimorar minhas habilidades e entregar soluções eficientes e escaláveis.<br/>
-  Tenho interesse especial por backend e arquitetura de aplicações modernas.
-</p>
+Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito. Tenho direcionado meus estudos para Node.js e React, com foco em aprimorar minhas habilidades em desenvolvimento fullstack.
 
----
+## Sobre mim
 
-### 💼 Habilidades Técnicas
+- Graduando em Analise e desenvolvimento de sistemas na UNIFAMMA
 
-<div align="center">
-  <img alt="Javascript" title="Javascript" style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="Typescript" title="Typescript" style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="NodeJs" title="NodeJs" style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img alt="ReactJs" title="ReactJs" style="width: 40px; height: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-</div>
+- Aprendendo sobre o o ecossistema Node.JS e seus frameworks com o foco no fullstack
 
----
+- Busco sempre aprender o fundamento antes de abstrair com frameworks
 
-### 📊 GitHub Insights
+- No meu [Linkedin](https://www.linkedin.com/in/victorgama7/) sempre posto sobre os meus estudos e pesquisas
+<br>
+
+<h2>Github Stats</h2>
+
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=victorgama7x&show_icons=true&theme=gruvbox&include_all_commits=true&hide_title=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorgama7x&layout=compact&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=victorgama7x&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorgama7x&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+## Tecnologias e linguagens
 
-### 📬 Contato
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,docker)](https://skillicons.dev)
 
-- ✉️ **E-mail:** victorgamatech@gmail.com 
-- 🔗 **LinkedIn:** [https://www.linkedin.com/in/victorgama7/](https://www.linkedin.com/in/victorgama7/)  
+###  Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nestjs,jest,vite,tailwind,postgres,mongo)](https://skillicons.dev)
 
----
-
-<p align="center"><em>“A tecnologia move o mundo, e eu quero fazer parte dessa transformação.”</em></p>
+###  Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
