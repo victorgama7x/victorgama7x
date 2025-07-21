@@ -1,12 +1,12 @@
 # Prazer, me chamo Victor
 
-Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito. Tenho direcionado meus estudos para Node.js e React, com foco em aprimorar minhas habilidades em desenvolvimento fullstack.
+Desenvolvedor em formação, comprometido em criar soluções modernas, funcionais e com propósito. Tenho direcionado meus estudos para Node.JS e Next.JS, com foco em aprimorar minhas habilidades em desenvolvimento fullstack.
 
 ## Sobre mim
 
-- Graduando em Analise e desenvolvimento de sistemas na UNIFAMMA
+- Graduando em Analise e desenvolvimento de sistemas pela UNIFAMMA
 
-- Aprendendo sobre Java e NextJS com foco no fullstack
+- Atualmente estou aprendendo sobre Nest.JS e Next.JS com foco no fullstack
 
 - Busco sempre aprender o fundamento antes de abstrair com frameworks
 
@@ -23,7 +23,7 @@ Desenvolvedor em formação, comprometido em criar soluções modernas, funciona
 
 ## Tecnologias e linguagens
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,docker)](https://skillicons.dev)
 
 ###  Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=spring,react,next,postgres,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nest,react,next,postgres,mongo)](https://skillicons.dev)
