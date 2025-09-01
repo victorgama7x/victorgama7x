@@ -6,7 +6,7 @@ Desenvolvedor em formação, comprometido em criar soluções modernas, funciona
 
 - Graduando em Analise e desenvolvimento de sistemas pela UNIFAMMA
 
-- Atualmente estou aprendendo sobre Nest.JS e Vue
+- Atualmente estou aprendendo sobre Express.js
   
 - Busco sempre aprender o fundamento antes de abstrair com frameworks
 
@@ -26,4 +26,4 @@ Desenvolvedor em formação, comprometido em criar soluções modernas, funciona
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,docker)](https://skillicons.dev)
 
 ###  Frameworks e bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=nest,vue,postgres,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nest,express,postgres,mongo)](https://skillicons.dev)
